@@ -1,0 +1,21 @@
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\bin\Debug\net6.0-windows\WPF File Folder.exe
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\bin\Debug\net6.0-windows\WPF File Folder.deps.json
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\bin\Debug\net6.0-windows\WPF File Folder.runtimeconfig.json
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\bin\Debug\net6.0-windows\WPF File Folder.dll
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\bin\Debug\net6.0-windows\WPF File Folder.pdb
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\WPF File Folder.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\WPF File Folder_MarkupCompile.cache
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\WPF File Folder_MarkupCompile.lref
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\WPF File Folder.g.resources
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\WPF File Folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\WPF File Folder.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\WPF File Folder.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\WPF File Folder.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\WPF File Folder.dll
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\refint\WPF File Folder.dll
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\WPF File Folder.pdb
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\WPF File Folder.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\WPF File Folder\WPF File Folder\obj\Debug\net6.0-windows\ref\WPF File Folder.dll
